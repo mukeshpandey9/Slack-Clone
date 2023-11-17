@@ -28,6 +28,7 @@ bars.addEventListener("click", () => {
   console.log("open");
 });
 
+
 let close = document.querySelector(".cross");
 close.addEventListener("click", () => {
   offCanvas.style.right = "0%";
