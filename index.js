@@ -10,7 +10,7 @@
     .getElementById("btn")
     .classList.toggle("border-darkPurple", window.scrollY > 50);
 
-  // Nav Logo
+  // N av Logo
 
   logo.classList.toggle("hidden", scrollY > 80);
 
