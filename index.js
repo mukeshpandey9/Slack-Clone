@@ -1,4 +1,4 @@
-window.addEventListener("scroll", () => {
+ window.addEventListener("scroll", () => {
   const header = document.querySelector("nav");
   const logo = document.querySelector("svg");
   const innerNav = document.querySelector(".inside-nav");
